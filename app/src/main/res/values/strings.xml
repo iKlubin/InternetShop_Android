@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternetShop</string>
+    <string name="home">Главная</string>
+    <string name="categories">Категории</string>
+    <string name="add_product">Добавить</string>
+    <string name="cart">Корзина</string>
+    <string name="profile">Профиль</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "487124442152",
+    "firebase_url": "https://internetshop-d9b58-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "internetshop-d9b58",
+    "storage_bucket": "internetshop-d9b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487124442152:android:965df02c286c4bf99f691d",
+        "android_client_info": {
+          "package_name": "com.example.internetshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCzZ1juaV89yyELaKVUHaHI3qV_bZ9ueY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
